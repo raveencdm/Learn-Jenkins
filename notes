@@ -1,0 +1,1 @@
+You can configure multiple agent nodes (Linux/Windows) or clouds (docker, kubernetes) for executing Jenkins jobs.
